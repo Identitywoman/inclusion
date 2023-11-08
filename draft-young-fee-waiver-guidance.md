@@ -55,15 +55,15 @@ Asking for a fee waiver is an act of vulnerability on the part of the requestor.
 
 ##  Definitions
 
-Requestor: The person who is petitioning the IETF for an onsite fee waiver request.
+**Requestor:** The person who is petitioning the IETF for an onsite fee waiver request.
 
-Grantee: The person who made the request for a fee waiver and was granted it.
+**Grantee:** The person who made the request for a fee waiver and was granted it.
 
-Grantor: The person or people who act on behalf of the IETF to review requestors applications and grant onsite fee waiver requests. 
+**Grantor:** The person or people who act on behalf of the IETF to review requestors applications and grant onsite fee waiver requests. 
 
-Full Fee Waiver: This gives a person a waiver for the full registration fee
+**Full Fee Waiver:** This gives a person a waiver for the full registration fee
 
-Partial Fee Waiver: This gives a waiver to a person for part of the registration fee
+**Partial Fee Waiver:** This gives a waiver to a person for part of the registration fee
 
 
 # Background
