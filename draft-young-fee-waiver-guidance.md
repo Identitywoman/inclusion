@@ -84,8 +84,8 @@ This section outlines acceptable questions for a grantor to ask the requestor.
 These questions help get at the motivation of the requestor for making the request and helps the grantor understand their motivations along with how they believe they can bring value to the IETF. 
 
 - Why do you want to attend this meeting?
- - What do you hope to get out of attending?
- - What do you hope to contribute to the meeting?
+   - What do you hope to get out of attending?
+   - What do you hope to contribute to the meeting?
 
 - How have you been engaged in the IETF?
 
