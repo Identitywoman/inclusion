@@ -43,17 +43,39 @@ TODO Abstract
 
 # Introduction
 
+## Purpose
+
 TODO Introduction
 
+##  Definitions
 
-# Conventions and Definitions
+# Background
 
- bkm```
+# Acceptable Questions for Fee Waiver Requests
+
+## Identifying Need
+
+## Means Testing
+
+## Documentation Requests
+
+# Decision-Making Process:
+
+## Who makes the decision
+
+## How is the decision made
+
+## How is the decision communicated?
 
 
-# Security Considerations
+# Budget for Fee Waivers
 
-TODO Security
+
+# Duties of the Grantee
+
+
+# Reporting out to the Plenary about fee waiver Requests
+
 
 
 # IANA Considerations
@@ -66,4 +88,4 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-TODO acknowledge.
+
