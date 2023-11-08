@@ -92,21 +92,21 @@ These questions help get at the motivation of the requestor for making the reque
 - Where do you currently work? 
 
 - Have you attended the IETF before? 
- - How many times? 
- - In-Person or Virtually
+   - How many times? 
+   - In-Person or Virtually
 
 - Where in the world are you based? 
- - Is English your first language?
+   - Is English your first language?
 
 ## Means Testing
 
 This outlines considerations for “means testing” and what questions can be asked to assess the financial need of the petitioner.
 
 - How are you funding your participation in the IETF?
- - Are you self funded? 
+   - Are you self funded? 
 
 - What is your total budget for attending the meeting?
- - How critical is it a fee waiver to making attendance possible? 
+   - How critical is it a fee waiver to making attendance possible? 
 
 ## Documentation Requests
 Some documentation may be helpful in making a decision about granting a fee waiver. 
