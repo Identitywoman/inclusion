@@ -3,7 +3,7 @@
 title: "GUIDELINES FOR ONSITE PARTICIPATION FEE WAIVER REQUESTS"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-todo-yourname-protocol-latest-00
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
