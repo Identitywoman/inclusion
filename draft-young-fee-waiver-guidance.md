@@ -83,37 +83,37 @@ This section outlines acceptable questions for a grantor to ask the requestor.
 ## Identifying Need
 These questions help get at the motivation of the requestor for making the request and helps the grantor understand their motivations along with how they believe they can bring value to the IETF. 
 
-* Why do you want to attend this meeting? 
-** What do you hope to get out of attending?
-** What do you hope to contribute to the meeting?
+- Why do you want to attend this meeting?
+ - What do you hope to get out of attending?
+ - What do you hope to contribute to the meeting?
 
-* How have you been engaged in the IETF?
+- How have you been engaged in the IETF?
 
-* Where do you currently work? 
+- Where do you currently work? 
 
-* Have you attended the IETF before? 
-** How many times? 
-** In-Person or Virtually
+- Have you attended the IETF before? 
+ - How many times? 
+ - In-Person or Virtually
 
-* Where in the world are you based? 
-** Is English your first language?
+- Where in the world are you based? 
+ - Is English your first language?
 
 ## Means Testing
 
 This outlines considerations for “means testing” and what questions can be asked to assess the financial need of the petitioner.
 
-* How are you funding your participation in the IETF? 
-** Are you self funded? 
+- How are you funding your participation in the IETF?
+ - Are you self funded? 
 
-* What is your total budget for attending the meeting?
-** How critical is it a fee waiver to making attendance possible? 
+- What is your total budget for attending the meeting?
+ - How critical is it a fee waiver to making attendance possible? 
 
 ## Documentation Requests
 Some documentation may be helpful in making a decision about granting a fee waiver. 
-* A letter from a chair of one of the working groups that the requestor is actively participating in. 
-* Documentation of the cost of travel from one destination to another (This can help people from remote locations demonstrate how much they must spend on travel and why a fee waiver for onsite participation makes the difference in being able to attend). 
-* Documentation of  independent work
-* Documentation about the person’s belonging to an under represented group
+- A letter from a chair of one of the working groups that the requestor is actively participating in. 
+- Documentation of the cost of travel from one destination to another (This can help people from remote locations demonstrate how much they must spend on travel and why a fee waiver for onsite participation makes the difference in being able to attend). 
+- Documentation of independent work
+- Documentation about the person’s belonging to an under represented group
 
 
 # Decision-Making Process:
@@ -130,6 +130,7 @@ It could be that one member of the IAB, one member of the IESG and one member of
 ## How is the decision made
 
 It is important to ensure that the review process is objective, impartial, and confidential.
+
 The grantor(s) shall evaluate requests against the established eligibility criteria and consider the potential impact of the participant's presence at the event. 
 
 Those requisition fee waivers need to know as soon as possible if their request has been granted so they can book travel and accommodations that are low cost. 
